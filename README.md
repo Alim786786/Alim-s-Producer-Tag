@@ -1,4 +1,4 @@
-# alim-s-producer-tag 🎛️
+# Alim-s-Producer-Tag 🎛️
 
 > A VS Code extension that plays a producer tag when your terminal command fails.
 > Your bugs now have a soundtrack.
