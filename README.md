@@ -1,53 +1,72 @@
-# alim-s-producer-tag README
+# alim-s-producer-tag 🎛️
 
-This is the README for your extension "alim-s-producer-tag". After writing up a brief description, we recommend including the following sections.
+> A VS Code extension that plays a producer tag every time you save your code.
+> Because your code is a hit. Obviously.
+
+---
+
+## What does it do?
+
+You press `Ctrl+S`. Your code gets saved. And then — **boom** — producer tag drops.
+
+That's it. That's the whole extension. You're welcome.
+
+---
+
+## Why does this exist?
+
+Great question. No one asked for it. And yet, here we are.
+
+Sometimes you write a banger of a function and the silence just doesn't do it justice. Now it does.
+
+---
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+- 🎵 Plays a producer tag on save
+- 🎵 Plays a *different* producer tag sometimes (variety is the spice of life)
+- 🎵 That's literally it
 
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+---
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+- VS Code (you're already here so congrats)
+- Speakers (or headphones, we don't judge)
+- The confidence to believe your code is a hit record
 
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+---
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+- May cause coworkers to look up from their screens
+- Does not actually make your code better
+- Has been known to cause spontaneous head nodding
+
+---
+
+## FAQ
+
+**Q: Will this make me a better developer?**
+A: No. But it will make you a more confident one.
+
+**Q: What if my code is bad?**
+A: The tag still plays. We believe in you.
+
+**Q: Can I turn it off?**
+A: You can. But why would you?
+
+---
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
 ### 1.0.0
 
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+Dropped. No features. No roadmap. Just vibes.
 
 ---
+
+*Made with love, poor decisions, and way too much free time.*
 
 ## Following extension guidelines
 
